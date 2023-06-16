@@ -1,5 +1,7 @@
 # Distributed Music Processing Project
 
+Nota: 16.75
+
 This project aims to split music into multiple chunks and process them in parallel. It leverages Python, Flask, Celery, and Redis to distribute and coordinate the processing of music files across multiple workers.
 
 ## Installation
